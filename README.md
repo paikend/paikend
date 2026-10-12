@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/cubrid-lab"><img src="https://img.shields.io/badge/CUBRID_ecosystem-contributor-2563eb?style=for-the-badge" /></a>
+<a href="https://github.com/cubrid-lab"><img src="https://img.shields.io/badge/CUBRID_ecosystem-maintainer-2563eb?style=for-the-badge" /></a>
 <a href="https://github.com/dagger/dagger/pulls?q=is%3Apr+author%3Apaikend+is%3Amerged"><img src="https://img.shields.io/badge/dagger-contributor-0f172a?style=for-the-badge&logo=dagger&logoColor=white" /></a>
 <a href="https://github.com/connectrpc/connect-rust/pulls?q=is%3Apr+author%3Apaikend+is%3Amerged"><img src="https://img.shields.io/badge/connect--rust-contributor-b7410e?style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="https://github.com/modelcontextprotocol/python-sdk/pulls?q=is%3Apr+author%3Apaikend+is%3Amerged"><img src="https://img.shields.io/badge/MCP_Python_SDK-contributor-7c3aed?style=for-the-badge" /></a>
