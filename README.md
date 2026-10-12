@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=520&lines=Data+Platforms;Kubernetes;Python+%C2%B7+Go;Open+Source+Contributor" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=520&lines=Platform+Engineer;DevOps+%C2%B7+SRE;Data+Platforms;Kubernetes;Python+%C2%B7+Go;Open+Source+Contributor" alt="Platform Engineer, DevOps, SRE, Data Platforms, Kubernetes, Python, Go, Open Source Contributor" />
 
 <br/>
 
